@@ -1,7 +1,7 @@
 import React from 'react'
 import {Routes,Route} from 'react-router-dom'
 import home from './pages/home'
-import collection from './pages/collection'
+import collection from './pages/Collection'
 
 const App = () => {
   return (
